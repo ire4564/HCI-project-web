@@ -2,6 +2,7 @@ import ReactPlayer from 'react-player';
 import Block from "./Block";
 
 const StartVideo = () => {
+
     return(
         <div></div>
     );
